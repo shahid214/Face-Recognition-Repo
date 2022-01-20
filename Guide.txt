@@ -1,0 +1,13 @@
+If you are using this program for the first time -
+ 
+  ===>> 1. Run the Generate_sampleImages.py to store your image 
+  ===>> 2. Then Run Attendance_FaceRecognition.py
+
+
+Modules Required-
+
+1. Face_recognition
+2. Numpy
+3. Os
+4. cv2 (OpenCV)
+5. Pyttsx3 (with pyaudio)
